@@ -1,0 +1,5 @@
+flag: local
+order:
+  - local
+  - vm
+  - mstsc
